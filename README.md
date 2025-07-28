@@ -1,4 +1,4 @@
-# # GoP2P File Sharer
+# GoP2P File Sharer
 A command-line peer-to-peer (P2P) file sharing application built from the ground up in Go. This system allows users on the same local network to discover each other and transfer files directly without the need for a central server.
 
 # About The Project
